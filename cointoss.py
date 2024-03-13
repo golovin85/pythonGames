@@ -1,3 +1,4 @@
+# simple coin toss app
 import random
 import sys
 
